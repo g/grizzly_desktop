@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 2.8.3)
 project(grizzly_viz)
 
-find_package(catkin REQUIRED COMPONENTS roslaunch interactive_maker_twist_server)
+find_package(catkin REQUIRED COMPONENTS roslaunch)
 
 catkin_package()
 
