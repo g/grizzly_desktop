@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<launch>
+  <!-- Launch file to view a Husky in the odom frame and control it using interactive markers -->
+  <arg name="config" default="robot" />
+  <node pkg="interactive_marker_twist_server" type="marker_server" name="twist_marker_server"/>
+  <node name="joint_state_publisher" pkg="joint_state_publisher" type="joint_state_publisher" />
+  <node name="rviz" pkg="rviz" type="rviz" args="-d $(find grizzly_viz)/rviz/$(arg config).rviz" />
+</launch>
