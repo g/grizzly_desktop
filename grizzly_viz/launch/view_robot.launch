@@ -7,6 +7,8 @@
     <rosparam>
       robot_name: grizzly
       marker_size_scale: 2.1
+      linear_scale: 0.15
+      angular_scale: 0.2
     </rosparam>
   </node>
   <node name="rviz" pkg="rviz" type="rviz" args="-d $(find grizzly_viz)/rviz/$(arg config).rviz" />
