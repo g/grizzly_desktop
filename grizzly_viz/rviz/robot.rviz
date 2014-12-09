@@ -74,7 +74,6 @@ Visualization Manager:
           Alpha: 1
           Show Axes: false
           Show Trail: false
-          Value: true
         base_footprint_bumper_part:
           Alpha: 1
           Show Axes: false
@@ -100,6 +99,10 @@ Visualization Manager:
           Show Axes: false
           Show Trail: false
           Value: true
+        imu_link:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
         sensor_anchor_link:
           Alpha: 1
           Show Axes: false
@@ -126,7 +129,6 @@ Visualization Manager:
     Frame Rate: 30
   Name: root
   Tools:
-    - Class: rviz/MoveCamera
     - Class: rviz/Interact
       Hide Inactive Objects: true
     - Class: rviz/Select
@@ -134,11 +136,17 @@ Visualization Manager:
       Topic: /initialpose
     - Class: rviz/SetGoal
       Topic: /move_base_simple/goal
+    - Class: rviz/MoveCamera
   Value: true
   Views:
     Current:
       Class: rviz/Orbit
       Distance: 3.8916
+      Enable Stereo Rendering:
+        Stereo Eye Separation: 0.06
+        Stereo Focal Distance: 1
+        Swap Stereo Eyes: false
+        Value: false
       Focal Point:
         X: 0
         Y: 0
@@ -166,5 +174,5 @@ Window Geometry:
   Views:
     collapsed: false
   Width: 1535
-  X: 108
-  Y: 68
+  X: 58
+  Y: 18
