@@ -2,8 +2,8 @@
 Changelog for package grizzly_viz
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.0 (2014-12-18)
+------------------
 * Update rviz configurations.
 * remap twist_marker_server/cmd_vel to /cmd_vel.
 * Contributors: Mike Purvis, Shokoofeh Pourmehr

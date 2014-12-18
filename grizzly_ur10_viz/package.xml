@@ -1,6 +1,6 @@
 <package>
   <name>grizzly_ur10_viz</name>
-  <version>0.1.2</version>
+  <version>0.2.0</version>
   <description>
     Launch files for visualizing Grizzly + UR10 with MoveIt!
   </description>
