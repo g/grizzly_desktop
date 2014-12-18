@@ -2,6 +2,11 @@
 Changelog for package ur10_moveit_config
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Add package with launchers for visualizing grizzly_ur10 variant. 
+* Contributors: Mike Purvis
+
 1.0.2 (2014-03-31)
 ------------------
 

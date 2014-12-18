@@ -2,6 +2,10 @@
 Changelog for package grizzly_desktop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
+
 0.1.2 (2013-11-30)
 ------------------
 
