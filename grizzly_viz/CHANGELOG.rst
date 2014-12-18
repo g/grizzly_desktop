@@ -2,6 +2,9 @@
 Changelog for package grizzly_viz
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.2.0 (2014-12-18)
 ------------------
 * Update rviz configurations.
