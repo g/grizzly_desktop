@@ -2,8 +2,8 @@
 Changelog for package grizzly_viz
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.3.0 (2018-06-07)
+------------------
 * cleaning up package.xml and cmakelists
 * Contributors: Mohamed Elshatshat
 
