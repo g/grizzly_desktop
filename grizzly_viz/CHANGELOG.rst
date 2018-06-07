@@ -7,8 +7,8 @@ Changelog for package grizzly_viz
 * cleaning up package.xml and cmakelists
 * Contributors: Mohamed Elshatshat
 
-Forthcoming
------------
+0.3.1 (2018-06-07)
+------------------
 * Removed un-needed deps and updated maintainer.
 * 0.3.0
 * Changes.
