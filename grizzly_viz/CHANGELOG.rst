@@ -2,6 +2,11 @@
 Changelog for package grizzly_viz
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* cleaning up package.xml and cmakelists
+* Contributors: Mohamed Elshatshat
+
 0.2.1 (2014-12-18)
 ------------------
 
