@@ -5,6 +5,9 @@ Changelog for package grizzly_desktop
 0.3.0 (2018-06-07)
 ------------------
 
+Forthcoming
+-----------
+
 0.3.1 (2018-06-07)
 ------------------
 * Removed un-needed deps and updated maintainer.
